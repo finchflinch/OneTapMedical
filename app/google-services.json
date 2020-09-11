@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290165074639",
+    "firebase_url": "https://login2411-89f0c.firebaseio.com",
+    "project_id": "login2411-89f0c",
+    "storage_bucket": "login2411-89f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290165074639:android:c0d2b7d9872d2e2e7b65ba",
+        "android_client_info": {
+          "package_name": "com.OCRSCANNER"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290165074639-48krkq0es4qboqkj79rgdh5fmc40734q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvSVBvm6erBiyMk71jx02ImBgci-MVPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290165074639-48krkq0es4qboqkj79rgdh5fmc40734q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
