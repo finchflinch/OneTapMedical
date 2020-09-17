@@ -51,7 +51,7 @@ public class DashboardActivity extends AppCompatActivity {
                 //Finishing current DashBoard activity on button click.
                finish();
 
-                Toast.makeText(DashboardActivity.this,"Log Out Successfull", Toast.LENGTH_LONG).show();
+                Toast.makeText(DashboardActivity.this,"Log Out Successful", Toast.LENGTH_LONG).show();
                 //Intent intent=new Intent(DashboardActivity.this,login.class);
                 //startActivity(intent);
                /*if (v.getId() == R.id.button1) {

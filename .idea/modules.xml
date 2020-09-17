@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Login-Signup-using-Firebase-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Login-Signup-using-Firebase-master.iml" group="Login-Signup-using-Firebase-master" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Login-Signup-using-Firebase-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Login-Signup-using-Firebase-master-app.iml" group="Login-Signup-using-Firebase-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneTapMedical.iml" filepath="$PROJECT_DIR$/.idea/modules/OneTapMedical.iml" group="OneTapMedical" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTapMedical-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTapMedical-app.iml" group="OneTapMedical/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/try1.iml" filepath="$PROJECT_DIR$/try1.iml" />
     </modules>
