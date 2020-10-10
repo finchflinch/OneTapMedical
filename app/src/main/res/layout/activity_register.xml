@@ -8,7 +8,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    android:background="@drawable/download1"
+    android:background="@drawable/image2"
     tools:context="com.example.shiva.try1.Register">
 
     <TextView
@@ -18,9 +18,10 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:gravity="center"
-        android:text="User Sign Up"
+        android:text="USER SIGN UP"
+
         android:textColor="#000"
-        android:textSize="20dp" />
+        android:textSize="24sp" />
 
     <EditText
         android:layout_width="fill_parent"
@@ -67,6 +68,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/editPassword"
         android:layout_marginTop="20dp"
+        android:background="@drawable/custom_button"
         android:text="SIGN UP" />
     <Button
         android:id="@+id/buttonLogin"
@@ -74,6 +76,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/buttonRegister"
         android:layout_marginTop="20dp"
+        android:background="@drawable/custom_button"
         android:text="LOGIN" />
 
 </RelativeLayout>
