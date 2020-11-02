@@ -10,7 +10,7 @@ import android.os.Bundle;
 public class homescreen extends AppCompatActivity {
     public Button start_button;
     public Button start_button1;
-
+    public Button start_button2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -51,6 +51,27 @@ public class homescreen extends AppCompatActivity {
 
 
         );
+
+        Button start_button2=(Button)findViewById(R.id.button4);
+
+
+        start_button2.setOnClickListener(new View.OnClickListener() {
+                                             @Override
+                                             public void onClick(View view) {
+                                                 Intent in = new Intent(com.example.shiva.try1.homescreen.this, com.example.shiva.try1.scanQR.class);
+
+                                                 startActivity(in);
+                                             }
+                                         }
+
+
+
+
+
+        );
+
+
+
 
     }
 }

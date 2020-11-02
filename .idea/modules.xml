@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop-app.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop-app.iml" group="app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneTapMedical.iml" filepath="$PROJECT_DIR$/.idea/modules/OneTapMedical.iml" group="OneTapMedical" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTapMedical-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTapMedical-app.iml" group="OneTapMedical/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app1.iml" filepath="$PROJECT_DIR$/.idea/modules/app1.iml" group="app1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app1-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app1-app.iml" group="app1/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app-app.iml" group="app/app" />
       <module fileurl="file://$PROJECT_DIR$/try1.iml" filepath="$PROJECT_DIR$/try1.iml" />
     </modules>
   </component>
